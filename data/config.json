@@ -1,9 +1,9 @@
 {
   "id": "ec",
-  "documentName": "<DOCUMENT_NAME>",
-  "iiifManifest": "/<BASE_DIR>/<DOCUMENT_ID>/iiif/manifest.json",
+  "documentName": "Orteli Test Document",
+  "iiifManifest": "/OrteliTest2/test/iiif/manifest.json",
   "transcriptionTypes": {
     "transcription": "Transcription"
   },
-  "viewerUrl": "/<BASE_DIR>"
+  "viewerUrl": "/OrteliTest2"
 }
