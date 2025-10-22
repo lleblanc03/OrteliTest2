@@ -3,13 +3,7 @@
   "documentName": "Orteli Test Document",
   "iiifManifest": "/OrteliTest2/test/iiif/manifest.json",
   "transcriptionTypes": {
-    "transcription": {
-      "label": "Transcription",
-      "columns": {
-        "1": "Column 1",
-        "2": "Column 2"
-      }
-    }
+    "transcription": "Transcription"
   },
   "viewerUrl": "/OrteliTest2"
 }
