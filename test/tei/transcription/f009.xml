@@ -1,16 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#f009"/>
-          <div type="columns">
-            <div type="column" n="1">
-              <ab>
-                <lb/>Text for Column 1 goes here.
-              </ab>
-            </div>
-            <div type="column" n="2">
-              <ab>
-                <lb/>Text for Column 2 goes here.
-              </ab>
-            </div>
-          </div>
-        </div>
-      </body>
-    </text>
+<ab>
+<lb/>Text goes here
+</ab>
+
+</div></body></text>
