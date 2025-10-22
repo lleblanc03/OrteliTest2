@@ -425,7 +425,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest2//test/tei/transcription/f009.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest2//test/tei/text/f009.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -438,7 +438,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest2//test/html/transcription/f009.html",
+								"id": "https://lleblanc03.github.io/OrteliTest2//test/html/text/f009.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -857,7 +857,40 @@
 					"(seq. 20)"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"id": "https://lleblanc03.github.io/OrteliTest2//test/iiif/canvas/f019/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lleblanc03.github.io/OrteliTest2//test/iiif/canvas/f019/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lleblanc03.github.io/OrteliTest2//test/tei/text/f019.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lleblanc03.github.io/OrteliTest2//test/iiif/canvas/f019"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lleblanc03.github.io/OrteliTest2//test/iiif/canvas/f019/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lleblanc03.github.io/OrteliTest2//test/html/text/f019.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lleblanc03.github.io/OrteliTest2//test/iiif/canvas/f019"
+						}
+					]
+				}
+			]
 		},
 		{
 			"id": "https://lleblanc03.github.io/OrteliTest2//test/iiif/canvas/f020",
