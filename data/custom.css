@@ -1,0 +1,10 @@
+/* Show column blocks next to each other */
+div[type="columns"] {
+  display: flex;
+  gap: 2rem;        /* space between columns */
+}
+
+div[type="column"] {
+  flex: 1;
+  width: 50%;
+}
