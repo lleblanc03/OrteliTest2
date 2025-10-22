@@ -425,7 +425,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest2//test/tei/text/f009.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest2//test/tei/transcription/f009.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -438,7 +438,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest2//test/html/text/f009.html",
+								"id": "https://lleblanc03.github.io/OrteliTest2//test/html/transcription/f009.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -868,7 +868,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest2//test/tei/text/f019.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest2//test/tei/transcription/f019.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -881,7 +881,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest2//test/html/text/f019.html",
+								"id": "https://lleblanc03.github.io/OrteliTest2//test/html/transcription/f019.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
